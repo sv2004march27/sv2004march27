@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Dedicated Student & Tech Enthusiast 👨🏻‍🎓
+## I'm an Aspiring AI/ML Developer & Problem Solver 🚀
 
 - 👨‍💻 I’m currently working on projects involving **Machine Learning, Deep Learning, and NLP**, focusing on building advanced neural network architectures and intelligent predictive models.
 - 📚 I’m currently exploring new ML libraries while refining my skills in **Software Engineering documentation** (like crafting detailed SRS reports and UML diagrams).
