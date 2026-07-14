@@ -50,8 +50,14 @@ me = ShivamVerma()
 
 <div align="center">
 
-`Machine Learning` &nbsp;•&nbsp; `Deep Learning` &nbsp;•&nbsp; `Computer Vision` &nbsp;•&nbsp; `NLP`
-`Data Analytics` &nbsp;•&nbsp; `MLOps` &nbsp;•&nbsp; `Azure AI` &nbsp;•&nbsp; `Open Source`
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![NLP](https://img.shields.io/badge/-NLP-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![MLOps](https://img.shields.io/badge/-MLOps-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![Azure AI](https://img.shields.io/badge/-Azure%20AI-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![Open Source](https://img.shields.io/badge/-Open%20Source-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF)
 
 </div>
 
