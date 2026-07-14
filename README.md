@@ -102,6 +102,10 @@ me = ShivamVerma()
 </p>
 
 <p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sv2004march27&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
 <img width="90%" src="https://ghchart.rshah.org/58A6FF/sv2004march27" alt="sv2004march27's GitHub contribution graph"/>
 </p>
 
