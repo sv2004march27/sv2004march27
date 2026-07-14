@@ -1,6 +1,11 @@
 <div align="center">
 
-# Hi, I'm Shivam Verma 👋
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&color=58A6FF&bg=161B22&shape=circle&animation=shake" title="Python"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=64&color=58A6FF&bg=161B22&shape=circle&animation=shake&animationDuration=1.8" title="TensorFlow"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=pytorch&size=64&color=58A6FF&bg=161B22&shape=circle&animation=shake&animationDuration=2.2" title="PyTorch"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=opencv&size=64&color=58A6FF&bg=161B22&shape=circle&animation=shake&animationDuration=1.6" title="OpenCV"/>
+
+# Hi, I'm SHIVAM VERMA 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Data+Science+Enthusiast;Building+Intelligent+Solutions+Through+Code" />
 
