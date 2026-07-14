@@ -1,22 +1,173 @@
-# Hi, I'm Shivam Verma <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<div align="center">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+# Hi, I'm Shivam Verma
 
-## I'm an Aspiring AI/ML Developer & Problem Solver 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Data+Science+Enthusiast;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Intelligent+Solutions+with+AI" />
 
-- 👨‍💻 I’m currently working on projects involving **Machine Learning, Deep Learning, and NLP**, focusing on building advanced neural network architectures and intelligent predictive models.
-- 📚 I’m currently exploring new ML libraries while refining my skills in **Software Engineering documentation** (like crafting detailed SRS reports and UML diagrams).
-- 💪🏼 Future Goals: Build impactful AI solutions, master system optimization, and focus on continuously improving myself by tackling complex technical challenges.
-- ⚡ Fun fact: I spend a good chunk of my free time tweaking my gaming laptop for maximum performance, or planning the next hill station getaway with my friends! 💻🏔️
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-verma-b4876a237/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SV2004MARCH27@GMAIL.COM) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sv2004march27&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sv2004march27&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sv2004march27&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact).
+<img src="https://komarev.com/ghpvc/?username=sv2004march27&label=Profile+Views&color=58A6FF&style=flat-square"/>
 
- 
- 
+</div>
+
+---
+
+# About Me
+
+```python
+class ShivamVerma:
+
+    def __init__(self):
+        self.name = "Shivam Verma"
+        self.role = "AI & Machine Learning Developer"
+        self.education = "B.Tech in Computer Science Engineering (Data Science & AI)"
+        self.location = "Haryana, India"
+
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Natural Language Processing",
+            "Data Analytics"
+        ]
+
+        self.currently_learning = [
+            "Large Language Models",
+            "MLOps",
+            "Azure",
+            "Generative AI"
+        ]
+
+        self.goal = "Build intelligent AI systems that solve real-world problems."
+
+
+me = ShivamVerma()
+```
+
+---
+
+# Current Focus
+
+- Building Machine Learning and Deep Learning projects
+- Learning advanced AI architectures
+- Working with Computer Vision and NLP
+- Exploring MLOps and Cloud Technologies
+- Improving Data Analytics and Visualization skills
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,mongodb"/>
+</p>
+
+### Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+
+</p>
+
+### Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,anaconda,streamlit"/>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sv2004march27&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sv2004march27&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2004march27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sv2004march27&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Brain Tumor Detection | Deep Learning based Medical Image Classification |
+| House Price Prediction | Machine Learning Regression Model |
+| Sentiment Analysis | Natural Language Processing using Naive Bayes |
+| Power BI Dashboard | Interactive Business Intelligence Dashboard |
+| Stock Market Analysis | Financial Data Analytics using Python |
+
+---
+
+# GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sv2004march27&theme=github_dark"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shivam-verma-b4876a237/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:sv2004march27@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building Intelligent Solutions Through Code
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer"/>
+
+</div>
