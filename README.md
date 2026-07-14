@@ -12,15 +12,24 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="60%">
+
 # About Me
 
 ```python
 class ShivamVerma:
 
     def __init__(self):
+
         self.name = "Shivam Verma"
+
         self.role = "AI & Machine Learning Developer"
-        self.education = "B.Tech in Computer Science Engineering (Data Science & AI)"
+
+        self.education = "B.Tech CSE (Data Science & AI)"
+
         self.location = "Haryana, India"
 
         self.interests = [
@@ -38,21 +47,41 @@ class ShivamVerma:
             "Generative AI"
         ]
 
-        self.goal = "Build intelligent AI systems that solve real-world problems."
-
+        self.goal = "Building intelligent AI solutions for real-world problems."
 
 me = ShivamVerma()
 ```
+
+</td>
+
+<td width="40%" align="center">
+
+```text
+     ASCII PROFILE
+
+     Upload your
+     photo and
+     replace this
+     section with
+     your custom
+     ASCII portrait
+
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # Current Focus
 
 - Building Machine Learning and Deep Learning projects
-- Learning advanced AI architectures
+- Learning Advanced AI Architectures
 - Working with Computer Vision and NLP
 - Exploring MLOps and Cloud Technologies
-- Improving Data Analytics and Visualization skills
+- Improving Data Analytics and Visualization
 
 ---
 
@@ -61,13 +90,17 @@ me = ShivamVerma()
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql,mongodb"/>
+
 </p>
 
-### Artificial Intelligence & Machine Learning
+### Artificial Intelligence
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
 </p>
 
 <p>
@@ -127,7 +160,7 @@ me = ShivamVerma()
 # Featured Projects
 
 | Project | Description |
-|---------|-------------|
+|----------|-------------|
 | Brain Tumor Detection | Deep Learning based Medical Image Classification |
 | House Price Prediction | Machine Learning Regression Model |
 | Sentiment Analysis | Natural Language Processing using Naive Bayes |
@@ -150,14 +183,18 @@ me = ShivamVerma()
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shivam-verma-b4876a237/">
+<a href="https://www.linkedin.com/in/shivam-verma-b4876a237">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:sv2004march27@gmail.com">
+<a href="mailto:SV2004MARCH27@GMAIL.COM">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 </p>
