@@ -98,7 +98,11 @@ me = ShivamVerma()
 </p>
 
 <p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2004march27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2004march27&layout=donut&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="90%" src="https://ghchart.rshah.org/58A6FF/sv2004march27" alt="sv2004march27's GitHub contribution graph"/>
 </p>
 
 <br>
