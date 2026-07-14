@@ -2,7 +2,7 @@
 
 # Hi, I'm Shivam Verma
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Data+Science+Enthusiast;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Intelligent+Solutions+with+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Data+Science+Enthusiast;Building+Intelligent+Solutions+Through+Code" />
 
 <br>
 
@@ -15,7 +15,7 @@
 <table>
 <tr>
 
-<td width="60%">
+<td width="62%" valign="top">
 
 # About Me
 
@@ -28,7 +28,10 @@ class ShivamVerma:
 
         self.role = "AI & Machine Learning Developer"
 
-        self.education = "B.Tech CSE (Data Science & AI)"
+        self.education = (
+            "B.Tech Computer Science Engineering "
+            "(Data Science & Artificial Intelligence)"
+        )
 
         self.location = "Haryana, India"
 
@@ -37,36 +40,37 @@ class ShivamVerma:
             "Deep Learning",
             "Computer Vision",
             "Natural Language Processing",
-            "Data Analytics"
+            "Data Analytics",
+            "Software Engineering"
         ]
 
         self.currently_learning = [
             "Large Language Models",
+            "Generative AI",
             "MLOps",
-            "Azure",
-            "Generative AI"
+            "Azure AI"
         ]
 
-        self.goal = "Building intelligent AI solutions for real-world problems."
+        self.goal = (
+            "Design intelligent systems that solve "
+            "real-world problems."
+        )
 
 me = ShivamVerma()
 ```
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-```text
-     ASCII PROFILE
+<img src="./assets/profile.jpg"
+width="250"
+style="border-radius:50%;
+border:4px solid #58A6FF;" />
 
-     Upload your
-     photo and
-     replace this
-     section with
-     your custom
-     ASCII portrait
+<br><br>
 
-```
+<img src="https://github-readme-stats.vercel.app/api?username=sv2004march27&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -77,17 +81,18 @@ me = ShivamVerma()
 
 # Current Focus
 
-- Building Machine Learning and Deep Learning projects
-- Learning Advanced AI Architectures
-- Working with Computer Vision and NLP
-- Exploring MLOps and Cloud Technologies
-- Improving Data Analytics and Visualization
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Data Analytics
+- MLOps
+- Azure AI
+- Open Source
 
 ---
 
-# Tech Stack
-
-### Languages
+# Languages
 
 <p>
 
@@ -95,7 +100,9 @@ me = ShivamVerma()
 
 </p>
 
-### Artificial Intelligence
+---
+
+# Artificial Intelligence
 
 <p>
 
@@ -119,7 +126,9 @@ me = ShivamVerma()
 
 </p>
 
-### Development Tools
+---
+
+# Development Tools
 
 <p>
 
@@ -133,15 +142,18 @@ me = ShivamVerma()
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sv2004march27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=sv2004march27&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sv2004march27&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=sv2004march27&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2004march27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2004march27&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -157,19 +169,7 @@ me = ShivamVerma()
 
 ---
 
-# Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| Brain Tumor Detection | Deep Learning based Medical Image Classification |
-| House Price Prediction | Machine Learning Regression Model |
-| Sentiment Analysis | Natural Language Processing using Naive Bayes |
-| Power BI Dashboard | Interactive Business Intelligence Dashboard |
-| Stock Market Analysis | Financial Data Analytics using Python |
-
----
-
-# GitHub Metrics
+# GitHub Summary
 
 <p align="center">
 
@@ -179,21 +179,33 @@ me = ShivamVerma()
 
 ---
 
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Brain Tumor Detection | Deep Learning based Medical Image Classification |
+| House Price Prediction | Machine Learning Regression |
+| Sentiment Analysis | NLP using Naive Bayes |
+| Power BI Dashboard | Interactive Business Intelligence Dashboard |
+| Stock Market Analysis | Financial Data Analytics |
+
+---
+
 # Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shivam-verma-b4876a237">
+<a href="https://www.linkedin.com/in/shivam-verma-b4876a237/">
 
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:SV2004MARCH27@GMAIL.COM">
 
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 
 </a>
 
@@ -205,6 +217,6 @@ me = ShivamVerma()
 
 ### Building Intelligent Solutions Through Code
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=130&section=footer"/>
 
 </div>
