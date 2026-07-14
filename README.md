@@ -101,14 +101,6 @@ me = ShivamVerma()
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2004march27&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sv2004march27&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sv2004march27&theme=github_dark"/>
-</p>
-
 <br>
 
 ## Featured Projects
